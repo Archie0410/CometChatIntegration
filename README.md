@@ -28,3 +28,4 @@ A React application demonstrating real-time chat functionality using the [CometC
 ```bash
 git clone https://github.com/your-username/cometchat-react-ui-kit.git
 cd cometchat-react-ui-kit
+![image](https://github.com/user-attachments/assets/37def28a-748b-4795-be6d-027e2d0ba406)
