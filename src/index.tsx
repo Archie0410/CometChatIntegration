@@ -15,9 +15,9 @@ import {
  * CometChat Constants - Replace with your actual credentials
  */
 const COMETCHAT_CONSTANTS = {
-  APP_ID: "27569787378ad62a",
-  REGION: "in",
-  AUTH_KEY: "8d97a9a7ca60c3b50173200ce9d372a37f878f89", // Replace with your Auth Key (leave blank if using Auth Token)
+  APP_ID: process.env.REACT_APP_COMETCHAT_APP_ID || "",
+  REGION: process.env.REACT_APP_COMETCHAT_REGION || "",
+  AUTH_KEY: process.env.REACT_APP_COMETCHAT_AUTH_KEY || "", // Replace with your Auth Key (leave blank if using Auth Token)
 };
 
 const UID = "cometchat-uid-1"; // Replace with your actual UID
