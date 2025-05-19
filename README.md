@@ -1,4 +1,5 @@
 # 💬 CometChat React UI Kit Integration
+![image](https://github.com/user-attachments/assets/d2f40f58-45e9-459e-96ba-44ed2c210ffa)
 
 A React application demonstrating real-time chat functionality using the [CometChat React UI Kit](https://www.cometchat.com/prodocs/uikit/react/quick-start). It includes authentication, user presence, and group messaging using CometChat’s cloud-hosted infrastructure.
 
@@ -28,4 +29,4 @@ A React application demonstrating real-time chat functionality using the [CometC
 ```bash
 git clone https://github.com/your-username/cometchat-react-ui-kit.git
 cd cometchat-react-ui-kit
-![image](https://github.com/user-attachments/assets/37def28a-748b-4795-be6d-027e2d0ba406)
+
